@@ -1,2 +1,5 @@
 # File to be ignored
 poetry.lock
+
+# Directory to be ignored
+/.venv
